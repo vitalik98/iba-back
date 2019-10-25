@@ -9,6 +9,5 @@ out
 gen
 /target
 first-task.iml
-.gitignore
 src/main/resources/
 
